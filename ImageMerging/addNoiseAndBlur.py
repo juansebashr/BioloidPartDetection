@@ -1,5 +1,6 @@
 """
-This file
+This file contains functions for adding blur and noise to the images, actually is not
+being used
 """
 
 import os
