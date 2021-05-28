@@ -1,0 +1,2 @@
+*.weigths filter=lfs diff=lfs merge=lfs -text
+Detection&Tracking/*.weights filter=lfs diff=lfs merge=lfs -text
