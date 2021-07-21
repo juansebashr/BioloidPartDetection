@@ -31,8 +31,8 @@ import ImageGeneration.RenderInterface as Render
 """ ************* User parameters for render ************* """
 num_images = 100
 obj_name = 'Casco'
-obj_path = 'D:\\Documents\\PycharmProjects\\BioloidPartsDetection\\Render_Workspace\\3DFiles\\Parts\\Casco.obj'
-texture_path = 'D:\\Documents\\PycharmProjects\\BioloidPartsDetection\\Render_Workspace\\Textures\\gray.jpg'
+obj_path = 'D:\\Documents\\PycharmProjects\\BioloidPartsDetection\\Resources\\3DFiles\\Parts\\Casco.obj'
+texture_path = 'D:\\Documents\\PycharmProjects\\BioloidPartsDetection\\Resources\\Textures\\gray.jpg'
 render_folder = 'D:\\Documents\\PycharmProjects\\BioloidPartsDetection\\Render_Workspace\\Renders\\CascoPNG'
 
 # Instantiate the RenderInterface class and call the load_subject method to render a object that its called
