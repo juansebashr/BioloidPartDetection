@@ -1,5 +1,3 @@
-# A fast introduction to Classification, Object Detection, and Image Segmentation for custom problem
-
 # Bioloid parts detection and tracking 
 
 This repo provides all the needed files to perform and detection and tracking of different parts of a Bioloid robot using Yolov4 and algorithm.
